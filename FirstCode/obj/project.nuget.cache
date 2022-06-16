@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANiukoafq77FcQyLwJtxfSLqzJq20wRTB8rr0brNUjb/Z0Nz/9JEl5K5kC1s3tzJBo78HmoIhBBd/IQFuiDfFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\farid\\Desktop\\FirstCode\\FirstCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
